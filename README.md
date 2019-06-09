@@ -1,4 +1,4 @@
-# <p align="center">Naive-Bayes-on-Amazon-Reviews</p>
+# <p align="center">Naive Bayes on Amazon Reviews</p>
 <p align="center">
   <img width="460" height="300" src="http://miro.medium.com/max/700/1*pkpoXVmLeBGauIAppMSVYQ.png">
 </p>
